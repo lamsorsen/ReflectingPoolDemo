@@ -1,0 +1,23 @@
+* text eol=lf
+* case-sensitive=true
+*.png binary
+*.stex binary
+*.aseprite binary
+*.jpg binary
+*.wav binary
+*.sample binary
+*.ogg binary
+*.import binary
+*.oggstr binary
+*.md5 binary
+*.icns binary
+*.ico binary
+*.ttf binary
+*.zip binary
+*.dmg binary
+*.exe binary
+*.mp3 binary
+*.tsx binary
+*.tmx binary
+*.clip binary
+*.mp3str binary
